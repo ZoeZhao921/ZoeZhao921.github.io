@@ -8,6 +8,7 @@
 ## 二、网站截图
 截图内容：
 - 首页
+- ![QQ图片20201024155342.jpg](https://i.loli.net/2021/05/30/SVu4BJPsHNMbf9j.jpg)
 - Blog列表页
 - 两篇Post（至少有一篇是Markdown练习）
 - Staff列表页
