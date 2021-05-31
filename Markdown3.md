@@ -1,6 +1,6 @@
 # WEB应用软件开发实训 - 第三次作业 - GIT使用
 
-> learngit 项目网址为：
+> learngit 项目网址为：https://github.com/ZoeZhao921/learngit.git
 
 ## 一、必做部分
 
