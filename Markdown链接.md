@@ -5,7 +5,7 @@
 ## 一、网站目录结构
 用“tree”命令输出网站目录结构并截图
 
-![tree.png](https://i.loli.net/2021/05/30/JUZHdE78QiLTlCw.png)
+![](https://cdnir.com/i/2021/06/02/mg50a8.png)
 
 ## 二、网站截图
 截图内容：
